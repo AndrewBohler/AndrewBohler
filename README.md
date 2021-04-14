@@ -2,5 +2,5 @@
 
 - 👀 I’m interested in python and C++
   
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Javascript
 
