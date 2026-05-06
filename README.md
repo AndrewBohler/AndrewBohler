@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AndrewBohler
 
-- 👀 I’m interested in python and C++
-  
-- 🌱 I’m currently learning C++ and Javascript
+- 👀 I enjoy complex data analysis in python
 
+- 🕵️‍♂️ RegEx is my bread an butter
