@@ -2,4 +2,4 @@
 
 - 👀 I enjoy complex data analysis in python
 
-- 🕵️‍♂️ RegEx is my bread an butter
+- 🕵️‍♂️ RegEx is my bread and butter
